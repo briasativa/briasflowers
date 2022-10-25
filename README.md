@@ -1,2 +1,2 @@
 # briasflowers
-phot files for website
+photos files for website
